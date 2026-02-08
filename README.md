@@ -44,7 +44,7 @@ es un factor clave para la generación de valor.
   diseño de soluciones, negociación y cierre de oportunidades.
 - Customer Lifecycle Management (CLM).
 - Customer Success Management (CSM).
-- Customer Growth & Expansion (CGC).
+- Customer Growth Consultant (CGC).
 - Gestión de cuentas y relación con clientes.
 - Comunicación con perfiles técnicos y no técnicos.
 - Elaboración de propuestas y documentación comercial–técnica.
