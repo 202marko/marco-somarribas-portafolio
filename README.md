@@ -8,7 +8,7 @@ experiencia profesional en entornos comerciales y tecnológicos.
 
 Cuento con experiencia desde 2017 en ventas, iniciando en modelos B2C y evolucionando
 a partir de 2020 hacia ventas corporativas (B2B), desempeñándome en roles como
-Customer Lifecicly Manager (CLM), Customer Success Management (CSM), Customer Growth Consultant(CGC).
+Customer Lifecycle Manager (CLM), Customer Success Management (CSM), Customer Growth Consultant(CGC).
 Dentro de estos roles, he participado en el ciclo completo de ventas,
 desde la prospección y contacto inicial (leads), levantamiento de requerimientos,
 diseño de soluciones y acompañamiento técnico-comercial, hasta el cierre de oportunidades.
