@@ -1,126 +1,66 @@
-# Marco Somarribas – Portafolio Profesional
+# Marco Somarribas | Software Engineer & B2B Tech Consultant 👋
 
-## Sobre mí
+[![Website](https://img.shields.io/badge/Website-gruposomarribas.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.gruposomarribas.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-somarribas/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/202marko)
 
-Soy estudiante de Ingeniería en Desarrollo de Software en la Universidad CENFOTEC,
-y actualmente trabajo a tiempo completo, combinando mi formación técnica con
-experiencia profesional en entornos comerciales y tecnológicos.
+## 🌐 Portafolio en Vivo
+> **IMPORTANTE:** He evolucionado este portafolio a una versión interactiva y profesional. 
+> ### 🚀 [ACCEDER A WWW.GRUPOSOMARRIBAS.COM](https://www.gruposomarribas.com)
 
-Cuento con experiencia desde 2017 en ventas, iniciando en modelos B2C y evolucionando
-a partir de 2020 hacia ventas corporativas (B2B), desempeñándome en roles como
-Customer Lifecycle Manager (CLM), Customer Success Management (CSM), Customer Growth Consultant(CGC).
-Dentro de estos roles, he participado en el ciclo completo de ventas,
-desde la prospección y contacto inicial (leads), levantamiento de requerimientos,
-diseño de soluciones y acompañamiento técnico-comercial, hasta el cierre de oportunidades.
+---
 
-De forma paralela a mis estudios universitarios, dedico entre 2 y 3 horas diarias
-al aprendizaje y práctica de nuevas tecnologías, fortaleciendo conocimientos en ventas B2B, administración de proyectos
-programación, bases de datos, networking, cloud y ciberseguridad.
+## 👤 Sobre mí
+Soy estudiante de **Ingeniería en Desarrollo de Software en la Universidad CENFOTEC**, y actualmente trabajo a tiempo completo, combinando mi formación técnica con experiencia profesional en entornos comerciales y tecnológicos.
 
-Mi enfoque profesional se centra en la resolución de problemas reales, la correcta
-documentación de soluciones y la integración efectiva entre tecnología y negocio,
-tanto en proyectos académicos como personales y profesionales.
+Cuento con experiencia desde 2017 en ventas, iniciando en modelos B2C y evolucionando a partir de 2020 hacia **ventas corporativas (B2B)**, desempeñándome en roles como:
+* **Customer Lifecycle Manager (CLM)**
+* **Customer Success Management (CSM)**
+* **Customer Growth Consultant (CGC)**
 
-## Objetivo del portafolio
+Dentro de estos roles, participo en el ciclo completo de ventas: desde la prospección y levantamiento de requerimientos hasta el diseño de soluciones y acompañamiento técnico-comercial. Dedico diariamente entre 2 y 3 horas adicionales al fortalecimiento de conocimientos en **networking, cloud y ciberseguridad**.
 
-El objetivo de este portafolio es centralizar y documentar proyectos académicos,
-personales y profesionales relacionados con el desarrollo de software y tecnologías
-de la información, reflejando un perfil integral que combina competencias técnicas
-con experiencia en entornos comerciales.
+## 🎯 Objetivo del Portafolio
+Centralizar y documentar proyectos que reflejen un perfil integral, evidenciando mi capacidad para analizar requerimientos de negocio y transformarlos en soluciones tecnológicas viables y bien documentadas. Este espacio está orientado a **roles técnicos, consultivos y técnico-comerciales**.
 
-A través de los proyectos aquí presentados, busco evidenciar mi capacidad para
-analizar requerimientos, comprender necesidades del negocio, diseñar soluciones
-tecnológicas viables, documentar decisiones técnicas y comunicar dichas soluciones
-de manera clara a distintos perfiles, tanto técnicos como no técnicos.
+---
 
-Este portafolio está orientado a roles técnicos, consultivos y técnico–comerciales,
-donde la correcta alineación entre tecnología, procesos y objetivos de negocio
-es un factor clave para la generación de valor.
+## 🛠️ Áreas de Conocimiento
 
-## Áreas de conocimiento
+### **Ventas Corporativas y Gestión Comercial (B2B)**
+- Ciclo completo de ventas y gestión de leads.
+- Customer Lifecycle Management (CLM) y Customer Success (CSM).
+- Comunicación efectiva con perfiles técnicos y no técnicos.
+- **Herramientas:** CRM, análisis de necesidades y documentación comercial-técnica.
 
-### Ventas Corporativas y Gestión Comercial (B2B)
-- Ciclo completo de ventas: prospección, gestión de leads, levantamiento de requerimientos,
-  diseño de soluciones, negociación y cierre de oportunidades.
-- Customer Lifecycle Management (CLM).
-- Customer Success Management (CSM).
-- Customer Growth Consultant (CGC).
-- Gestión de cuentas y relación con clientes.
-- Comunicación con perfiles técnicos y no técnicos.
-- Elaboración de propuestas y documentación comercial–técnica.
+### **Desarrollo de Software y Programación**
+- **Lenguajes:** Java, Python, HTML5, CSS3, JavaScript.
+- Fundamentos de desarrollo orientado a objetos y lógica algorítmica.
+- Lectura, análisis y comprensión profunda de código.
 
-Herramientas y entornos:
-- CRM (conceptos y uso operativo).
-- Documentación comercial y técnica.
-- Análisis de necesidades del negocio.
-- Seguimiento de oportunidades y clientes.
+### **Bases de Datos e Infraestructura**
+- **Bases de Datos:** Modelado lógico/físico e integración mediante SQL.
+- **Networking & Cloud:** Conceptos de conectividad, infraestructura cloud y ciberseguridad.
 
-### Administración de Proyectos y Consultoría
-- Levantamiento y análisis de requerimientos.
-- Definición de alcance y objetivos.
-- Documentación funcional y técnica.
-- Enfoque consultivo orientado a soluciones.
-- Alineación entre requerimientos del negocio y viabilidad técnica.
+### **Administración de Proyectos y Consultoría**
+- Levantamiento de requerimientos y definición de alcance.
+- Enfoque consultivo orientado a la resolución de problemas reales.
 
-### Desarrollo de Software y Programación
-- Fundamentos de programación.
-- Desarrollo orientado a objetos.
-- Desarrollo web (frontend).
-- Lógica algorítmica y resolución de problemas.
-- Lectura, análisis y comprensión de código.
-
-Lenguajes y tecnologías:
-- Java
-- Python
-- HTML
-- CSS
-- JavaScript
-
-### Bases de Datos
-- Modelado de bases de datos.
-- Diseño lógico y físico.
-- Lenguaje SQL.
-- Análisis de datos estructurados.
-- Integración de bases de datos en aplicaciones.
-
-### Networking, Cloud y Ciberseguridad
-- Fundamentos de redes.
-- Conceptos de infraestructura y conectividad.
-- Introducción a entornos cloud.
-- Principios básicos de ciberseguridad.
-- Enfoque en buenas prácticas y entendimiento de riesgos.
-
-### Matemática, Lógica y Análisis
-- Matemática aplicada a la computación.
-- Lógica matemática y algorítmica.
-- Análisis estructurado de problemas.
-- Pensamiento crítico y resolución lógica.
-
-### Herramientas de Trabajo
-- Git y GitHub (control de versiones).
-- Documentación técnica y académica.
-- Trabajo con entornos de desarrollo.
-- Organización y estructuración de proyectos.
+---
 
 ## 📂 Proyectos destacados
-> *(Se irán agregando progresivamente)*
-- [Proyecto 1 – Nombre](#)
-- [Proyecto 2 – Nombre](#)
-- [Proyecto 3 – Nombre](#)
+> *(Se irán agregando progresivamente - Código fuente disponible en este perfil)*
+- [Proyecto 1 – En desarrollo](#)
+- [Proyecto 2 – En desarrollo](#)
+- [Proyecto 3 – En desarrollo](#)
 
-## Tecnologías
-- Lenguajes: Java, Python, HTML, CSS, JavaScript
-- Bases de datos: SQL
-- Control de versiones: Git, GitHub
-- Entornos y herramientas: IDEs, documentación técnica
-- Conceptos técnicos: Networking, Cloud, Ciberseguridad
+---
 
-##  Estado
-En construcción – portafolio en crecimiento continuo, con incorporación progresiva
-de proyectos académicos, personales y profesionales
+## 🏗️ Estado del Perfil
+**En construcción** – Portafolio en crecimiento continuo, con incorporación progresiva de proyectos académicos de CENFOTEC, personales y profesionales.
 
-##  Contacto
-- LinkedIn: https://www.linkedin.com/in/marco-somarribas/
-- GitHub: https://github.com/202marko
-- OrCid.org: https://orcid.org/0009-0002-8108-8712
-- Website: https://www.gruposomarribas.com/
+## 📞 Contacto
+- **LinkedIn:** [linkedin.com/in/marco-somarribas/](https://www.linkedin.com/in/marco-somarribas/)
+- **GitHub:** [github.com/202marko](https://github.com/202marko)
+- **ORCID:** [0009-0002-8108-8712](https://orcid.org/0009-0002-8108-8712)
+- **Sitio Web:** [www.gruposomarribas.com](https://www.gruposomarribas.com)
