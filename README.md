@@ -49,10 +49,19 @@ Centralizar y documentar proyectos que reflejen un perfil integral, evidenciando
 ---
 
 ##  Proyectos destacados
-> *(Se irán agregando progresivamente - Código fuente disponible en este perfil)*
-- [Proyecto 1 – En desarrollo](#)
-- [Proyecto 2 – En desarrollo](#)
-- [Proyecto 3 – En desarrollo](#)
+
+###  Desarrollo Web & Consultoría
+* **[Proyecto 1: Portafolio Minimalista B2B](https://github.com/202marko/personal-sobre-mi)** * **Categoría:** `Personal / Profesional`  
+    * **Descripción:** Diseño y despliegue de marca personal con dominio propio. Enfoque en optimización de carga y branding.  
+    * [Ver sitio en vivo](https://www.gruposomarribas.com)
+
+###  Proyectos Académicos (Universidad CENFOTEC)
+* **[Proyecto 2: Nombre del Proyecto]** * **Categoría:** `Universitario`  
+    * **Tecnologías:** Java / SQL.  
+    * **Reto:** Resolución de lógica algorítmica y modelado de datos según requerimientos académicos.
+
+---
+> *Nota: Se irán agregando proyectos laborales (respetando acuerdos de confidencialidad/NDA) y nuevas entregas de CENFOTEC progresivamente.*
 
 ---
 
