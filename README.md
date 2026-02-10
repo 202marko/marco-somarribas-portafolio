@@ -52,14 +52,17 @@ Centralizar y documentar proyectos que reflejen un perfil integral, evidenciando
 
 ###  Desarrollo Web & Consultoría
 * **[Proyecto 1: Portafolio Minimalista B2B](https://github.com/202marko/personal-sobre-mi)** * **Categoría:** `Personal / Profesional`  
-    * **Descripción:** Diseño y despliegue de marca personal con dominio propio. Enfoque en optimización de carga y branding. 
+    * **Tecnologías:** HTML5, CSS3 (Flexbox/Grid), JavaScript, Custom Domains
+    * **Descripción:** Sitio web profesional diseñado como tarjeta de presentación digital para consultoría técnica-comercial. 
+    * **Reto:** Desarrollar una interfaz de alta legibilidad utilizando HTML5 para la estructura semántica y CSS3 para el diseño visual, integrando JavaScript para mejorar la interactividad sin comprometer la velocidad de carga, logrando un producto final sobrio y profesional para el sector B2B.
 
 ---
 
 ###  Programación & Lógica (Java)
 * **[Proyecto 2: El Oráculo de Neón - Escape Room](https://github.com/202marko/universitario-java-el-oraculo-de-neon)** * **Categoría:** `Universitario / Lógica de Programación`  
     * **Tecnologías:** Java (Estructuras de control, Bucles, Lógica Aritmética).
-    * **Reto:** Desarrollo de un simulador con arquitectura de decisiones ramificada (Rutas Roja/Azul), implementando validación de datos y gestión de estados de usuario.
+    * **Descripción:** Simulador de escape room en consola con narrativa interactiva y múltiples finales.
+    * **Reto:** Estructurar un sistema de control de flujo basado en un "Minicontador de Escenarios" y variables de estado, permitiendo la transición lógica entre dos entornos distintos y un desenlace basado en el historial de errores del usuario.
 
 ---
 > *Nota: Se irán agregando proyectos laborales (respetando acuerdos de confidencialidad/NDA) y nuevas entregas de CENFOTEC progresivamente.*
