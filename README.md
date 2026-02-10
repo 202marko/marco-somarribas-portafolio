@@ -50,16 +50,16 @@ Centralizar y documentar proyectos que reflejen un perfil integral, evidenciando
 
 ##  Proyectos destacados
 
-###  Programación & Lógica (Java)
-* **[Proyecto: El Oráculo de Neón - Escape Room](https://github.com/202marko/universitario-java-el-oraculo-de-neon)** * **Categoría:** `Universitario / Lógica de Programación`  
-    * **Tecnologías:** Java (Estructuras de control, Bucles, Lógica Aritmética).
-    * **Reto:** Desarrollo de un simulador con arquitectura de decisiones ramificada (Rutas Roja/Azul), implementando validación de datos y gestión de estados de usuario.
+###  Desarrollo Web & Consultoría
+* **[Proyecto 1: Portafolio Minimalista B2B](https://github.com/202marko/personal-sobre-mi)** * **Categoría:** `Personal / Profesional`  
+    * **Descripción:** Diseño y despliegue de marca personal con dominio propio. Enfoque en optimización de carga y branding. 
 
 ---
 
-###  Desarrollo Web & Consultoría
-* **[Proyecto 1: Portafolio Minimalista B2B](https://github.com/202marko/personal-sobre-mi)** * **Categoría:** `Personal / Profesional`  
-    * **Descripción:** Diseño y despliegue de marca personal con dominio propio. Enfoque en optimización de carga y branding.  
+###  Programación & Lógica (Java)
+* **[Proyecto 2: El Oráculo de Neón - Escape Room](https://github.com/202marko/universitario-java-el-oraculo-de-neon)** * **Categoría:** `Universitario / Lógica de Programación`  
+    * **Tecnologías:** Java (Estructuras de control, Bucles, Lógica Aritmética).
+    * **Reto:** Desarrollo de un simulador con arquitectura de decisiones ramificada (Rutas Roja/Azul), implementando validación de datos y gestión de estados de usuario.
 
 ---
 > *Nota: Se irán agregando proyectos laborales (respetando acuerdos de confidencialidad/NDA) y nuevas entregas de CENFOTEC progresivamente.*
